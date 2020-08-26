@@ -1,4 +1,4 @@
-package com.sanshao.basic.springbootm1.mail;
+package com.sanshao.basic.springbootm1.modules.mail_demo;
 
 public interface MailService {
 

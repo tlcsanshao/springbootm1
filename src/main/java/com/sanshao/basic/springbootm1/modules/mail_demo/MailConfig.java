@@ -1,4 +1,4 @@
-package com.sanshao.basic.springbootm1.config;
+package com.sanshao.basic.springbootm1.modules.mail_demo;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;

@@ -1,12 +1,13 @@
 package com.sanshao.basic.springbootm1;
 
-import com.sanshao.basic.springbootm1.mail.MailServiceImpl;
+import com.sanshao.basic.springbootm1.modules.mail_demo.MailServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class Springbootm1ApplicationTests {
+
 
     @Autowired
     MailServiceImpl mailService;

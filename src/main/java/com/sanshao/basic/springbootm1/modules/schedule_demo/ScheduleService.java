@@ -1,9 +1,7 @@
-package com.sanshao.basic.springbootm1.damon;
+package com.sanshao.basic.springbootm1.modules.schedule_demo;
 
 
-import org.springframework.boot.CommandLineRunner;
 import org.springframework.scheduling.annotation.Scheduled;
-import org.springframework.stereotype.Component;
 
 //@Component
 public class ScheduleService{
