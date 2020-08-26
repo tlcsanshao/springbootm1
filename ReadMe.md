@@ -13,5 +13,8 @@ SpringBootM1框架中包含了
 * Filter与Interceptor的使用，支持跨域Filter的配置
 * 异步调用
 * 异步线程池调用
+* socket实例
+* pdf、doc、excel文档的生成
+* 引入第三方jar包
 
 
