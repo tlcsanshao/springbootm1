@@ -1,7 +1,7 @@
-package com.sanshao.basic.springbootbasic.controller;
+package com.sanshao.basic.springbootm1.controller;
 
-import com.sanshao.basic.springbootbasic.domain.SimpleUser;
-import com.sanshao.basic.springbootbasic.service.SimpleUserService;
+import com.sanshao.basic.springbootm1.domain.SimpleUser;
+import com.sanshao.basic.springbootm1.service.SimpleUserService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;

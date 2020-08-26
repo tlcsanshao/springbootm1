@@ -1,4 +1,4 @@
-package com.sanshao.basic.springbootbasic.logs;
+package com.sanshao.basic.springbootm1.logs;
 
 
 import java.lang.annotation.*;

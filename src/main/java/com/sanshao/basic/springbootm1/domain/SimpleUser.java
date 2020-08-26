@@ -1,4 +1,4 @@
-package com.sanshao.basic.springbootbasic.domain;
+package com.sanshao.basic.springbootm1.domain;
 
 
 import lombok.Data;

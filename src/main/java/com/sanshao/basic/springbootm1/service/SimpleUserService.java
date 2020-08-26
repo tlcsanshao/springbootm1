@@ -1,9 +1,9 @@
-package com.sanshao.basic.springbootbasic.service;
+package com.sanshao.basic.springbootm1.service;
 
 
-import com.sanshao.basic.springbootbasic.domain.SimpleUser;
-import com.sanshao.basic.springbootbasic.domain.SimpleUserRepository;
-import com.sanshao.basic.springbootbasic.logs.LogAnnotation;
+import com.sanshao.basic.springbootm1.domain.SimpleUser;
+import com.sanshao.basic.springbootm1.domain.SimpleUserRepository;
+import com.sanshao.basic.springbootm1.logs.LogAnnotation;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

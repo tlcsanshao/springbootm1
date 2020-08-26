@@ -1,4 +1,4 @@
-package com.sanshao.basic.springbootbasic.domain;
+package com.sanshao.basic.springbootm1.domain;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

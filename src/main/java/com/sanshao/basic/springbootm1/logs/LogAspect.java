@@ -1,4 +1,4 @@
-package com.sanshao.basic.springbootbasic.logs;
+package com.sanshao.basic.springbootm1.logs;
 
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.JoinPoint;
@@ -14,7 +14,7 @@ import java.util.Arrays;
 @Slf4j
 public class LogAspect {
 
-    @Pointcut("@annotation(com.sanshao.basic.springbootbasic.logs.LogAnnotation)")
+    @Pointcut("@annotation(com.sanshao.basic.springbootm1.logs.LogAnnotation)")
     public void pointCutDeclaration() {
     }
 

@@ -1,4 +1,4 @@
-package com.sanshao.basic.springbootbasic.damon;
+package com.sanshao.basic.springbootm1.damon;
 
 
 import org.springframework.boot.CommandLineRunner;
